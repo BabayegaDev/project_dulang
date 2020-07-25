@@ -1,6 +1,10 @@
-Project Deliverable #3
+Project Deliverable #4
 
 Title: DULANG 
+
+Synopsis:
+Dulang is a food donation application where user can add food to be donated or request available food.
+This app focus on reducinng food waste and thus giving it to those in needs.
 
 Members:
 
@@ -10,4 +14,4 @@ NUR NADIRA EZRIN BINTI HAIRUDIN (B18CS0021)
 SYED ABDUL QUDDUS AL-KHERED BIN SYED JAMAL ABDUL NASIR (A18CS0346)
 
 Video URL: 
-https://www.youtube.com/watch?v=0brAkSMzw-M
+youtube.com/watch?v=6DLIEiCmG8M
