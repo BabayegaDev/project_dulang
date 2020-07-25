@@ -15,3 +15,7 @@ SYED ABDUL QUDDUS AL-KHERED BIN SYED JAMAL ABDUL NASIR (A18CS0346)
 
 Video URL: 
 youtube.com/watch?v=6DLIEiCmG8M
+
+Git Link:
+Front end: https://github.com/BabayegaDev/project_dulang.git
+Back End: https://github.com/BabayegaDev/dulang_backend.git
